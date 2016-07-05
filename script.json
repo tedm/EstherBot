@@ -1,6 +1,7 @@
 {
     "BOT": "Hi there!\nI’m tedbot, Teds personal bot, a forked project of EstherBot.\n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about Ted? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Ted](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
     "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
+    "MORE BOT STORIES": "Oowkey...it seems like you enjoy stories about how bots are the new cool.\n Here’s an article that you will like on why bots will ‘kill’ apps. %[Read Article now](https://medium.com/chat-bots/once-in-a-decade-paradigm-shift-messaging-dec665593e49#.dyjwotkmz) %[Ok,will read later](postback:read)",
     "TELL HER": "Let's tweet @ Esther so she knows you're using her bot set-up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
