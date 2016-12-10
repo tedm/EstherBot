@@ -4,6 +4,7 @@
     "HELLO": "Hey, I'm so glad you connected to Tedbot! Do you want to tell Esther that you're talking to her bots cousin? %[Tell her](postback:twitter)",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
+    "AGE": "40 years old",
     "SLATE": "7 year old grey tabby",
     "GILLY": "9 year old orange tabby",
     "VIC": "Hi Vic!",
